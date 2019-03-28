@@ -2,6 +2,6 @@
 	"access_token": "EAAxxxxx",
 	"qr_path" : "qrimg",
 	"qr_size" : 1000,
-	"mode"    : "sp",
+	"mode"    : "all",
 	"page_ids": ["120257911407400", "120257911407400"]
 }
