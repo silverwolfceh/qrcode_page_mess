@@ -9,4 +9,4 @@ User will be redirect to your fanpage message if they scan the qr image with mes
 - Check QR code at folder qrimg
 
 # Message me :)
-![EvilDragon](https://raw.githubusercontent.com/silverwolfceh/qrcode_page_mess/master/qrimg/example.png)
+![EvilDragon](https://raw.githubusercontent.com/silverwolfceh/qrcode_page_mess/master/qrimg/example.png){:height="30%" width="30%"}
